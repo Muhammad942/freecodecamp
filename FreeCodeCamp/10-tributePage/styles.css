@@ -1,0 +1,9 @@
+*{
+    background-color: grey
+  }
+  .image{
+    max-width: 100%;
+    display: block;
+    justify-content: center;
+  }
+  
